@@ -4,3 +4,5 @@ Aim: To predict outcomes of ATP tennis matches, based on Jeff Sackmanns tennis a
 
 As of now, only Match-level statistics are considered. Point-level statistics are available in Jeff Sackmann's Match Charting Protect https://github.com/JeffSackmann/tennis_MatchChartingProject.
 
+ELO-ratings are also considered.
+
