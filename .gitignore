@@ -1,7 +1,7 @@
-Betting strategies.ipynb
-Model prediction on new data.ipynb
-Matches to bet on.ipynb
-bootstrap_models.pkl
+
 XGBoost_model.pkl
+default_gb_model.pkl
+bootstrap_models.pkl
 Temp data/
+Betting strategy/
 
