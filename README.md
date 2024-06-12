@@ -6,5 +6,5 @@ As of now, only Match-level statistics are considered. Point-level statistics ar
 
 ELO-ratings are also considered.
 
-The interactive interpretML dashboards in the Machine Learnin Models notebook can be rendered here https://nbviewer.org/github/Alla977/.
+The interactive dashboards in the notebooks can best be viewed/ rendered here https://nbviewer.org/github/Alla977/.
 
